@@ -36,7 +36,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
 }
-.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus,.nav-sidebar>li>a:hover,.nav-sidebar>li>a:focus {
     background-color: #428bca;
     color: #fff;
 }
